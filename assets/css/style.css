@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* this is the start of the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,6 +41,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* This is the end of the header */
 
 a {
     color: #ffffff;
