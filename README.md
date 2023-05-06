@@ -14,7 +14,7 @@ I made sure all the links work on the page and fixed the errors that was sstoppi
 
 I have made the notes on the sheets so that it is easy to read and so whomever wants to adjust the page to know what I have done.
 
-This is the link to the web page: https://mattgaither.github.io/challenge/
+This is the link to the web page: https://mattgaither.github.io/Horiseon/
 
 Screen shots of the webpage:
 
